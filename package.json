@@ -1,0 +1,14 @@
+{
+  "name": "s3-upload-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Geetanjali",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.678.0"
+  }
+}
