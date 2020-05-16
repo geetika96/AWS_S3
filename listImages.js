@@ -13,9 +13,7 @@ function listAllObjectsFromS3Bucket(bucket, days) {
       //Bucket name of our upload Bucket
         Bucket: 'whirlpool-qr-app'
     };
-    console.log("222yoyoyoy");
   s3.listObjects(params, function(err, data) {
-    console.log("yoyoyoy");
    if (err) {
      console.log(err);
    return err; // an error occurred
