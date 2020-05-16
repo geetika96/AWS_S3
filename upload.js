@@ -3,8 +3,8 @@ const AWS = require('aws-sdk');
 
 const s3 = new AWS.S3({
   // Can be recreated using URL : https://console.aws.amazon.com/iam/home?#/security_credentials
-    accessKeyId: "AKIAIDR7MCUVVGMN6JPQ",
-    secretAccessKey: "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"
+  accessKeyId: "AKIAJC27P42ZV5YGPBCA",
+  secretAccessKey: "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"
 });
 
 const fileName = '/Users/ggeetanj/Pictures/0e25a6387c72f190c83cf16813a6cf31.jpg';
