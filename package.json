@@ -9,6 +9,6 @@
   "author": "Geetanjali",
   "license": "ISC",
   "dependencies": {
-    "aws-sdk": "^2.678.0"
+    "aws-sdk": "^2.814.0"
   }
 }
